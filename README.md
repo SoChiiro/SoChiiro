@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am currently on an internship at the Bobbe company.<br>I am at the EFREI PARIS engineering school in the Software Engineering major.<br><br>I work on several websites and applications. Especially in javascript to practice
+I am currently on an internship at the Bobbe company.<br>I am at the EFREI PARIS engineering school in the Software Engineering major.<br><br>I work on several websites and applications. Especially in javascript to practice.
+I like to code the front and create new design.
 
 
 ## 🌐 Socials:
