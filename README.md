@@ -21,9 +21,6 @@ During my internship, I utilized Bonita Software, a French low-code platform for
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=SoChiiro&icon=6&color=8)](https://visitcount.itsvg.in)
 <!-- Idk why doesn't work -->
