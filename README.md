@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am French and I am currently on an internship at the RS2i company.<br>I am at the EFREI PARIS engineering school in the last year of Software Engineering major.<br><br>I work on several websites and applications with some frameworks like Vue.JS or React.JS. I'm trying to improve my java comprehension and level.
+I am French and I am currently on an internship at the RS2i company.<br>I am at the EFREI PARIS engineering school in the last year of Software Engineering major.<br><br>I work on several websites and applications with some frameworks like Vue.JS or React.JS and Typescript. I'm trying to improve my java comprehension and level.
 I usually like to code the front and create new design, help my friends for some website and project. 
 
 During my internship, I utilized Bonita Software, a French low-code platform for automation and BPM. I worked with languages like Groovy and JS. My focus included practicing Activity diagrams and automating Business Process Management processes extensively. 
